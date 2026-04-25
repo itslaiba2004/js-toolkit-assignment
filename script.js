@@ -12,4 +12,5 @@ function changeText() {
 
 function changeBox() {
   document.getElementById("box").style.backgroundColor = "yellow";
+  console.log("function loaded!");
 }
